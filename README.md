@@ -33,11 +33,11 @@ JavaScript is a versatile language that can be used in various environments. Whi
   
 #### Basic JavaScript Elements
 
-1. **[Syntax](https://github.com/nayaba/pw-lesson-03)**: The set of rules that define the combinations of symbols that are considered to be correctly structured JavaScript programs.
+1. **[Console](https://github.com/nayaba/pw-lesson-02)**: Where you'll see messages, errors, or any output from your code.
 
-2. **[Comments](https://github.com/nayaba/pw-lesson-03#comments-your-codes-sidekick)**: Notes that explain the code and are ignored when running it.
+2. **[Syntax](https://github.com/nayaba/pw-lesson-03)**: The set of rules that define the combinations of symbols that are considered to be correctly structured JavaScript programs.
 
-3. **[Console](https://github.com/nayaba/pw-lesson-02)**: Where you'll see messages, errors, or any output from your code.
+3. **[Comments](https://github.com/nayaba/pw-lesson-03#comments-your-codes-sidekick)**: Notes that explain the code and are ignored when running it.
 
 4. **[Variables](https://github.com/nayaba/pw-lesson-04)**: Containers for storing data values. In modern JavaScript, `let` and `const` are used to declare variables.
 
