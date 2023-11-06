@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/nayaba/pw-lesson-01/main/intro-js.gif" />
 
-### Lesson 1: Introduction to JavaScript
+## Lesson 1: Introduction to JavaScript
 
 #### What is JavaScript?
 
@@ -13,6 +13,47 @@
 - **HTML** is the structure of your website, like the skeleton of a human body.
 - **CSS** is the style of your website, akin to the clothes and accessories that make the look of the body.
 - **JavaScript** is the behavior, similar to the muscles that move and react to what’s around.
+
+###  Introduction to JavaScript as a Standalone Language
+
+![what](https://github.com/nayaba/pw-lesson-02/assets/9198401/086a4d1e-382c-4c3f-b2e3-2f3b9e956ba4)
+
+#### Understanding JavaScript's Flexibility
+
+JavaScript is a versatile language that can be used in various environments. While it's commonly associated with web development in combination with HTML and CSS, it can also run independently on the command line (aka in the [Terminal](https://github.com/nayaba/pw-dev-tools#the-terminal-your-command-center)), or on a server, using environments like Node.js. This lesson focuses on JavaScript itself, not its interaction with HTML and CSS.
+
+#### The JavaScript Engine
+
+- **What is it?** A JavaScript engine is a program that executes JavaScript code. Every major web browser has its own engine, for example, Google Chrome has V8.
+- **Node.js**: This is a runtime that allows you to run JavaScript on a server or your local machine's command line.
+
+#### Writing JavaScript Without HTML/CSS
+
+- **Standalone Scripts**: You can write and execute JavaScript without a browser, using just a text editor and a JavaScript runtime like Node.js.
+  
+#### Basic JavaScript Elements
+
+1. **[Syntax](https://github.com/nayaba/pw-lesson-03)**: The set of rules that define the combinations of symbols that are considered to be correctly structured JavaScript programs.
+
+2. **[Comments](https://github.com/nayaba/pw-lesson-03#comments-your-codes-sidekick)**: Notes that explain the code and are ignored when running it.
+
+3. **[Console](https://github.com/nayaba/pw-lesson-02)**: Where you'll see messages, errors, or any output from your code.
+
+4. **[Variables](https://github.com/nayaba/pw-lesson-04)**: Containers for storing data values. In modern JavaScript, `let` and `const` are used to declare variables.
+
+5. **[Data Types](https://github.com/nayaba/pw-lesson-05)**: JavaScript has various data types, including:
+   - **Strings**: Textual data
+   - **Numbers**: Both integers and floating-point numbers
+   - **Booleans**: True or false values
+   - **Objects**: Complex data structures
+   - **Arrays**: Lists of data
+
+6. **[Operators](https://github.com/nayaba/pw-lesson-06)**: Symbols that tell the interpreter to perform specific mathematical or logical manipulations.
+
+7. **[Control Structures](https://github.com/nayaba/pw-lesson-07)**: Direct the flow of the program based on conditions.
+
+
+8. **[Functions](https://github.com/nayaba/pw-lesson-08)**: Blocks of code designed to perform a particular task, called upon by name.
 
 Alright, future coders! Let’s get you set up in a nifty playground where you can practice the cool stuff we'll be learning. There’s this awesome tool called CodePen – think of it as your personal digital sandbox. You can build and test snippets of HTML, CSS, and JavaScript without the fuss of setting up a full development environment. It’s perfect for trying out the concepts from our lessons.
 
@@ -55,8 +96,6 @@ Now, about running JavaScript on your local machine: You can write JavaScript co
 - **Auto-saving**: CodePen auto-saves your work as you go along. So, take a breather; your code’s not going anywhere.
 - **Console**: Want to see outputs from your JavaScript like `console.log()`? CodePen has a console at the bottom of the screen. It's like hearing the echo when you shout into a canyon.
 - **Settings**: Want to include a JavaScript library like jQuery? Click on the gear icon in the JS panel and include it from there. It’s like adding sprinkles to your ice cream.
-
-### Wrapping Up
 
 Think of CodePen as your digital canvas and feel free to paint with code. It’s a place to experiment, make mistakes, and discover solutions. I’ll be guiding you through using CodePen in class, so we’ll get plenty of practice together.
 
