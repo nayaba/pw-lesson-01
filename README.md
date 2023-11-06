@@ -1,5 +1,3 @@
-Certainly! When learning JavaScript, it's helpful to understand that it's a scripting language used to create and control dynamic website content — anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page. Here’s a beginner-friendly introduction to JavaScript, assuming you are familiar with HTML and CSS.
-
 ### Lesson 1: Introduction to JavaScript
 
 #### What is JavaScript?
