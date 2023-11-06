@@ -59,3 +59,5 @@ Now, about running JavaScript on your local machine: You can write JavaScript co
 Think of CodePen as your digital canvas and feel free to paint with code. It’s a place to experiment, make mistakes, and discover solutions. I’ll be guiding you through using CodePen in class, so we’ll get plenty of practice together.
 
 And before you know it, you’ll be writing JavaScript like it’s your native language. Get ready to create, explore, and have a blast with code! 🚀🎨
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
