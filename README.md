@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/nayaba/pw-lesson-01/main/intro-js.gif" />
+
 ### Lesson 1: Introduction to JavaScript
 
 #### What is JavaScript?
